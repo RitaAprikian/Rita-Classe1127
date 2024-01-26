@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf -8" standalone="yes"?>
+<Preferencias>
+    <Filmes>
+        <Filme1>
+            <Titulo>Titanic</Titulo>
+            <Lancamento>1990</Lancamento>
+            <Elenco>
+                <Ator>Leonardo Dicaprio</Ator>
+                <Ator>Rose</Ator>
+            </Elenco>
+            <Tipo>Romance</Tipo>
+            <Sinopse>Navio afundou, casal impossivel, leo morre congelado</Sinopse>
+        </Filme1>
+        <Filme2>
+            <Titulo>Toy story</Titulo>
+            <Lancamento>2002</Lancamento>
+            <Elenco>
+                <Ator>Buzz lightyear</Ator>
+                <Ator>Andy</Ator>
+            </Elenco>
+            <Tipo>Comédia, Infantil</Tipo>
+            <Sinopse>Brinquedos ganham vida</Sinopse>
+        </Filme2>
+        <Filme3>
+            <Titulo>Monstros SA</Titulo>
+            <Lancamento>2005</Lancamento>
+            <Elenco>
+                <Ator>Mike</Ator>
+                <Ator>Sullivan</Ator>
+                <Ator>Boo</Ator>
+            </Elenco>
+            <Tipo>Comédia, Infantil</Tipo>
+            <Sinopse>Monstros assustam crianças ma manter a cidade com energia</Sinopse>
+        </Filme3>
+    </Filmes>
+    <Comidas>
+        <Preferidas>
+            <Comida1>Strogonoff</Comida1>
+                <Ingredientes1>Frango, creme de leite, mostarda, molho de tomate, cebola, alho..</Ingredientes1>
+            <Comida2>Churrasco</Comida2>
+                <Ingredientes2>Carne, pão de alho, queijo</Ingredientes2>
+            <Comida3>Feijoada</Comida3>
+                <Ingredientes3>Linguiça, paio, feijão preto, farofa, arroz, couve..</Ingredientes3>
+        </Preferidas>
+    </Comidas>
+</Preferencias>

@@ -1,0 +1,38 @@
+Preferencias:
+  Filmes:
+    Filme1:
+      Titulo: Titanic
+      Lancamento: '1990'
+      Elenco:
+        Ator:
+        - Leonardo Dicaprio
+        - Rose
+      Tipo: Romance
+      Sinopse: Navio afundou, casal impossivel, leo morre congelado
+    Filme2:
+      Titulo: Toy story
+      Lancamento: '2002'
+      Elenco:
+        Ator:
+        - Buzz lightyear
+        - Andy
+      Tipo: Comédia, Infantil
+      Sinopse: Brinquedos ganham vida
+    Filme3:
+      Titulo: Monstros SA
+      Lancamento: '2005'
+      Elenco:
+        Ator:
+        - Mike
+        - Sullivan
+        - Boo
+      Tipo: Comédia, Infantil
+      Sinopse: Monstros assustam crianças ma manter a cidade com energia
+  Comidas:
+    Preferidas:
+      Comida1: Strogonoff
+      Ingredientes1: Frango, creme de leite, mostarda, molho de tomate, cebola, alho..
+      Comida2: Churrasco
+      Ingredientes2: Carne, pão de alho, queijo
+      Comida3: Feijoada
+      Ingredientes3: Linguiça, paio, feijão preto, farofa, arroz, couve..
